@@ -13,12 +13,6 @@
     "test": "jest --coverage",
     "build": "rimraf ./build && tsc"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run prettier-format && npm run lint",
-      "pre-push": ""
-    }
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -31,7 +25,6 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-no-loops": "^0.3.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "husky": "^7.0.4",
     "jest": "^27.4.5",
     "nodemon": "^2.0.15",
     "onchange": "^7.1.0",
