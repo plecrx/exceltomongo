@@ -20,5 +20,7 @@ app.use(bodyParser.json());
 app.use(morgan('short', { stream: new LoggerStream() }));
 
 app.get('/', (req, res) => {
-  res.status(200).send('Hello World!');
+  res.status(200).send('Hello There!');
 });
+
+module.exports = app;
