@@ -1,0 +1,60 @@
+error: Dec-27-2021 18:03:02: 	Server running on port : 3001!
+error: Dec-27-2021 18:03:13: 	Server running on port : 3001!
+error: Dec-27-2021 18:05:22: 	Server running on port : 3001!
+error: Dec-27-2021 18:05:37: 	Server running on port : 3001!
+error: Dec-27-2021 18:27:07: 	Server running on port : 3001!
+error: Dec-27-2021 18:27:57: 	Server running on port : 3001!
+error: Dec-27-2021 18:28:33: 	Server running on port : 3001!
+info: Dec-27-2021 18:28:44: 	Server running on port : 3001!
+info: Dec-27-2021 18:30:29: 	Server running on port : 3001!
+info: Dec-27-2021 18:30:44: 	Server running on port : 3001!
+info: Dec-27-2021 18:39:09: 	Server running on port : 3001!
+info: Dec-27-2021 18:43:21: 	Server running on port : 3001!
+info: Dec-27-2021 18:43:58: 	Server running on port : 3001!
+info: Dec-27-2021 18:55:15: 	Server running on port : 3001!
+info: Dec-27-2021 18:55:57: 	Server running on port : 3001!
+info: Dec-27-2021 18:55:58: 	::ffff:127.0.0.1 - - [27/Dec/2021:17:55:58 +0000] "GET / HTTP/1.1" 200 12 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0"
+info: Dec-27-2021 18:55:58: 	::ffff:127.0.0.1 - - [27/Dec/2021:17:55:58 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0"
+info: Dec-27-2021 19:02:57: 	Server running on port : 3001!
+info: Dec-27-2021 19:03:00: 	GET / 304 - - 2.022 ms
+info: Dec-27-2021 19:04:04: 	Server running on port : 3001!
+info: Dec-27-2021 19:04:07: 	::ffff:127.0.0.1 - - [27/Dec/2021:18:04:07 +0000] "GET / HTTP/1.1" 304 -
+info: Dec-27-2021 19:05:04: 	Server running on port : 3001!
+info: Dec-27-2021 19:05:08: 	GET / 304 2.665 ms - -
+info: Dec-27-2021 19:05:32: 	Server running on port : 3001!
+info: Dec-27-2021 19:05:35: 	::ffff:127.0.0.1 - GET / HTTP/1.1 304 - - 2.129 ms
+info: Dec-27-2021 19:06:54: 	Server running on port : 3001!
+info: Dec-27-2021 19:07:08: 	Server running on port : 3001!
+info: Dec-27-2021 19:07:11: 	::ffff:127.0.0.1 - - [2021-12-27T18:07:11.306Z] "GET / HTTP/1.1" 304 -
+info: Dec-27-2021 19:07:37: 	Server running on port : 3001!
+info: Dec-27-2021 19:07:38: 	remote-addr - - [2021-12-27T18:07:38.454Z] "GET / HTTP/1.1" 304 -
+info: Dec-27-2021 19:08:26: 	Server running on port : 3001!
+info: Dec-27-2021 19:08:37: 	Server running on port : 3001!
+info: Dec-27-2021 19:08:38: 	::ffff:127.0.0.1 - - [Mon, 27 Dec 2021 18:08:38 GMT] "GET / HTTP/1.1" 304 -
+info: Dec-27-2021 19:58:32: 	Server running on port : 3001!
+info: Dec-27-2021 19:58:35: 	::ffff:127.0.0.1 - - [2021-12-27 19:58:35] "GET / HTTP/1.1" 304 -
+info: Dec-27-2021 20:01:36: 	Server running on port : 3001!
+info: Dec-27-2021 20:07:34: 	Server running on port : 3001!
+info: Dec-27-2021 20:10:01: 	::ffff:127.0.0.1 - - [Mon, 27 Dec 2021 19:10:01 GMT] "GET / HTTP/1.1" 200 12
+info: Dec-27-2021 20:10:01: 	::ffff:127.0.0.1 - - [Mon, 27 Dec 2021 19:10:01 GMT] "GET /favicon.ico HTTP/1.1" 404 150
+info: Dec-27-2021 20:11:40: 	Server running on port : 3001!
+info: Dec-27-2021 20:11:41: 	GET / 200 12 - 2.009 ms
+info: Dec-27-2021 20:11:41: 	GET /favicon.ico 404 150 - 1.355 ms
+info: Dec-27-2021 20:11:44: 	GET / 200 12 - 0.570 ms
+info: Dec-27-2021 20:11:44: 	GET /favicon.ico 404 150 - 0.775 ms
+info: Dec-27-2021 20:12:07: 	Server running on port : 3001!
+info: Dec-27-2021 20:12:20: 	Server running on port : 3001!
+info: Dec-27-2021 20:12:22: 	::ffff:127.0.0.1 - GET / HTTP/1.1 304 - - 1.985 ms
+info: Dec-27-2021 20:12:48: 	::ffff:127.0.0.1 - GET / HTTP/1.1 304 - - 0.419 ms
+info: Dec-27-2021 20:12:51: 	::ffff:127.0.0.1 - GET / HTTP/1.1 304 - - 0.548 ms
+info: Dec-27-2021 20:13:03: 	Server running on port : 3001!
+info: Dec-27-2021 20:13:04: 	GET / 304 - - 2.565 ms
+info: Dec-27-2021 20:13:09: 	GET / 304 - - 0.675 ms
+info: Dec-27-2021 20:13:11: 	GET / 304 - - 0.266 ms
+info: Dec-27-2021 20:13:38: 	GET / 200 12 - 0.720 ms
+info: Dec-27-2021 20:13:38: 	GET /favicon.ico 404 150 - 1.468 ms
+info: Dec-27-2021 20:14:06: 	Server running on port : 3001!
+info: Dec-27-2021 20:14:09: 	::1 - GET / HTTP/1.1 304 - - 3.298 ms
+info: Dec-27-2021 20:14:25: 	::1 - GET / HTTP/1.1 200 12 - 0.979 ms
+info: Dec-27-2021 20:14:25: 	::1 - GET /favicon.ico HTTP/1.1 404 150 - 1.604 ms
+info: Dec-28-2021 13:11:34: 	::ffff:127.0.0.1 - GET / HTTP/1.1 304 - - 0.507 ms
