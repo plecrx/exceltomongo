@@ -1,3 +1,3 @@
-import { router as healthcheckRouter } from './HealthcheckRouter/HealthcheckRouter';
+import { router as healthcheckRouter } from './healthcheck/healthcheck.router';
 
 export { healthcheckRouter };

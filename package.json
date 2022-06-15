@@ -13,6 +13,9 @@
     "test": "jest",
     "build": "rimraf ./dist && tsc -p tsconfig.json"
   },
+  "engines": {
+    "node": ">=4.2.4"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -54,11 +57,17 @@
     "@types/express": "^4.17.13",
     "@types/morgan": "^1.9.3",
     "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
     "express": "^4.17.2",
     "module-alias": "^2.2.2",
     "moment": "^2.29.1",
+    "mongoose": "^6.3.8",
     "morgan": "^1.10.0",
+    "read-excel-file": "^4.1.0",
     "source-map-support": "^0.5.21",
     "winston": "^3.3.3"
+  },
+  "peerDependencies": {
+    "mongoose": "*"
   }
 }
