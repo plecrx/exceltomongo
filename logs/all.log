@@ -309,3 +309,450 @@ info: Dec-28-2021 20:48:47: 	Server running on port : 3001!
 info: Dec-28-2021 20:48:59: 	::ffff:127.0.0.1 - GET /health/status HTTP/1.1 200 13 - 2.031 ms
 info: Dec-28-2021 20:48:59: 	::ffff:127.0.0.1 - GET /health/status HTTP/1.1 200 13 - 2.013 ms
 info: Dec-28-2021 20:50:36: 	::ffff:127.0.0.1 - GET /health/status HTTP/1.1 200 13 - 2.094 ms
+info: Jun-17-2022 12:41:46: 	Server running on port : 3001!
+info: Jun-17-2022 12:41:54: 	::1 - GET / HTTP/1.1 404 17 - 2.017 ms
+info: Jun-17-2022 12:41:54: 	::1 - GET /favicon.ico HTTP/1.1 404 28 - 0.418 ms
+info: Jun-17-2022 12:42:07: 	::1 - GET /excelToMongo/convert HTTP/1.1 200 13 - 0.801 ms
+info: Jun-17-2022 12:42:54: 	Server running on port : 3001!
+info: Jun-17-2022 12:45:13: 	Server running on port : 3001!
+info: Jun-17-2022 12:48:27: 	Server running on port : 3001!
+info: Jun-17-2022 12:49:10: 	Server running on port : 3001!
+info: Jun-17-2022 12:49:57: 	Server running on port : 3001!
+info: Jun-17-2022 12:52:12: 	Server running on port : 3001!
+info: Jun-17-2022 15:08:15: 	Server running on port : 3001!
+info: Jun-17-2022 15:08:16: 	::1 - GET /excelToMongo/convert HTTP/1.1 304 - - 2.345 ms
+info: Jun-17-2022 15:08:18: 	::1 - GET /excelToMongo/convert HTTP/1.1 304 - - 0.931 ms
+info: Jun-17-2022 15:08:19: 	::1 - GET /excelToMongo/convert HTTP/1.1 304 - - 0.336 ms
+info: Jun-17-2022 15:08:46: 	Server running on port : 3001!
+info: Jun-17-2022 15:09:42: 	Server running on port : 3001!
+info: Jun-17-2022 15:10:41: 	Server running on port : 3001!
+info: Jun-17-2022 15:11:50: 	Server running on port : 3001!
+info: Jun-17-2022 15:12:03: 	Server running on port : 3001!
+info: Jun-17-2022 15:12:33: 	Server running on port : 3001!
+info: Jun-17-2022 15:12:44: 	Server running on port : 3001!
+info: Jun-17-2022 15:14:01: 	Server running on port : 3001!
+info: Jun-17-2022 15:15:01: 	Server running on port : 3001!
+info: Jun-17-2022 15:16:02: 	Server running on port : 3001!
+info: Jun-17-2022 15:19:33: 	Server running on port : 3001!
+info: Jun-17-2022 15:20:10: 	Server running on port : 3001!
+info: Jun-17-2022 15:20:46: 	Server running on port : 3001!
+info: Jun-17-2022 15:21:16: 	Server running on port : 3001!
+info: Jun-17-2022 15:23:00: 	Server running on port : 3001!
+info: Jun-17-2022 15:23:27: 	Server running on port : 3001!
+info: Jun-17-2022 15:23:42: 	Server running on port : 3001!
+info: Jun-17-2022 15:23:43: 	prout
+info: Jun-17-2022 15:24:41: 	Server running on port : 3001!
+info: Jun-17-2022 15:24:45: 	prout
+info: Jun-17-2022 15:25:52: 	Server running on port : 3001!
+info: Jun-17-2022 15:25:53: 	prout
+info: Jun-17-2022 15:26:06: 	Server running on port : 3001!
+info: Jun-17-2022 15:26:09: 	prout
+info: Jun-17-2022 15:26:24: 	Server running on port : 3001!
+info: Jun-17-2022 15:26:26: 	prout
+info: Jun-17-2022 15:27:22: 	Server running on port : 3001!
+info: Jun-17-2022 15:27:30: 	Server running on port : 3001!
+info: Jun-17-2022 15:27:40: 	Server running on port : 3001!
+info: Jun-17-2022 15:27:43: 	test
+info: Jun-17-2022 15:28:01: 	Server running on port : 3001!
+info: Jun-17-2022 15:28:04: 	test
+info: Jun-17-2022 15:28:18: 	Server running on port : 3001!
+info: Jun-17-2022 15:28:50: 	utils/data/zoneC.xlsx
+info: Jun-17-2022 15:29:50: 	Server running on port : 3001!
+info: Jun-17-2022 15:33:55: 	utils/data/zoneC.xlsx
+info: Jun-17-2022 15:41:00: 	Server running on port : 3001!
+info: Jun-17-2022 15:41:08: 	Server running on port : 3001!
+info: Jun-17-2022 15:41:44: 	Server running on port : 3001!
+info: Jun-17-2022 15:58:55: 	Server running on port : 3001!
+info: Jun-17-2022 15:59:06: 	Server running on port : 3001!
+error: Jun-17-2022 16:00:52: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-17-2022 17:05:36: 	Server running on port : 3001!
+info: Jun-17-2022 17:08:28: 	Server running on port : 3001!
+info: Jun-17-2022 17:11:07: 	Server running on port : 3001!
+info: Jun-17-2022 17:13:25: 	Server running on port : 3001!
+info: Jun-17-2022 17:14:13: 	Server running on port : 3001!
+info: Jun-17-2022 17:14:51: 	Server running on port : 3001!
+info: Jun-17-2022 17:14:53: 	[object Object]
+info: Jun-17-2022 17:15:50: 	Server running on port : 3001!
+info: Jun-17-2022 17:16:48: 	Server running on port : 3001!
+info: Jun-17-2022 17:17:29: 	Server running on port : 3001!
+error: Jun-17-2022 17:20:12: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-17-2022 17:20:41: 	Server running on port : 3001!
+info: Jun-17-2022 17:21:38: 	Server running on port : 3001!
+info: Jun-17-2022 17:22:22: 	Server running on port : 3001!
+info: Jun-17-2022 17:22:59: 	Server running on port : 3001!
+info: Jun-17-2022 17:24:26: 	Server running on port : 3001!
+info: Jun-17-2022 17:25:34: 	Server running on port : 3001!
+info: Jun-17-2022 17:25:34: 	hello
+info: Jun-17-2022 17:26:24: 	Server running on port : 3001!
+info: Jun-17-2022 17:26:24: 	hello
+info: Jun-17-2022 17:26:24: 	jesuislà
+info: Jun-17-2022 17:26:25: 	::1 - GET /excelToMongo/convert HTTP/1.1 - - - - ms
+info: Jun-17-2022 17:27:44: 	Server running on port : 3001!
+info: Jun-17-2022 17:27:44: 	hello
+info: Jun-17-2022 17:27:44: 	jesuislà
+info: Jun-17-2022 17:27:44: 	etpuislà
+info: Jun-17-2022 17:28:23: 	Server running on port : 3001!
+info: Jun-17-2022 17:28:26: 	hello
+info: Jun-17-2022 17:28:26: 	jesuislà
+info: Jun-17-2022 17:28:26: 	etpuislà
+info: Jun-17-2022 17:29:03: 	Server running on port : 3001!
+info: Jun-17-2022 17:29:04: 	hello
+info: Jun-17-2022 17:29:04: 	jesuislà
+info: Jun-17-2022 17:29:04: 	etpuislà
+info: Jun-17-2022 17:29:05: 	::1 - GET /excelToMongo/convert HTTP/1.1 - - - - ms
+info: Jun-17-2022 17:29:48: 	Server running on port : 3001!
+info: Jun-17-2022 17:29:50: 	hello
+info: Jun-17-2022 17:29:50: 	jesuislà
+info: Jun-17-2022 17:29:50: 	etpuislà
+info: Jun-17-2022 17:29:50: 	BAM
+info: Jun-17-2022 17:30:36: 	Server running on port : 3001!
+info: Jun-17-2022 17:30:36: 	hello
+info: Jun-17-2022 17:30:36: 	jesuislà
+info: Jun-17-2022 17:30:36: 	etpuislà
+info: Jun-17-2022 17:30:36: 	BAM
+info: Jun-17-2022 17:30:37: 	dans le connnected
+info: Jun-17-2022 17:31:28: 	Server running on port : 3001!
+info: Jun-17-2022 17:31:30: 	hello
+info: Jun-17-2022 17:31:30: 	jesuislà
+info: Jun-17-2022 17:31:30: 	etpuislà
+info: Jun-17-2022 17:31:30: 	BAM
+info: Jun-17-2022 17:31:31: 	dans le connnected
+info: Jun-17-2022 17:31:31: 	dans le rows from file
+info: Jun-17-2022 17:32:12: 	Server running on port : 3001!
+info: Jun-17-2022 17:32:25: 	Server running on port : 3001!
+info: Jun-17-2022 17:32:26: 	hello
+info: Jun-17-2022 17:32:26: 	jesuislà
+info: Jun-17-2022 17:32:26: 	etpuislà
+info: Jun-17-2022 17:32:26: 	BAM
+info: Jun-17-2022 17:32:27: 	dans le connnected
+info: Jun-17-2022 17:32:27: 	dans le rows from file
+info: Jun-17-2022 17:33:49: 	Server running on port : 3001!
+info: Jun-17-2022 17:33:56: 	hello
+info: Jun-17-2022 17:33:56: 	jesuislà
+info: Jun-17-2022 17:33:56: 	etpuislà
+info: Jun-17-2022 17:33:56: 	BAM
+info: Jun-17-2022 17:33:57: 	dans le connnected
+info: Jun-17-2022 17:33:57: 	dans le rows from file
+info: Jun-17-2022 17:34:44: 	Server running on port : 3001!
+info: Jun-17-2022 17:34:45: 	hello
+info: Jun-17-2022 17:34:45: 	jesuislà
+info: Jun-17-2022 17:34:45: 	etpuislà
+info: Jun-17-2022 17:34:45: 	BAM
+info: Jun-17-2022 17:34:46: 	dans le connnected
+info: Jun-17-2022 17:34:46: 	dans le rows from file
+info: Jun-17-2022 17:34:46: 	lsx
+info: Jun-17-2022 17:35:21: 	Server running on port : 3001!
+info: Jun-17-2022 17:35:21: 	hello
+info: Jun-17-2022 17:35:21: 	jesuislà
+info: Jun-17-2022 17:35:21: 	etpuislà
+info: Jun-17-2022 17:35:21: 	BAM
+info: Jun-17-2022 17:35:23: 	dans le connnected
+info: Jun-17-2022 17:35:23: 	dans le rows from file
+info: Jun-17-2022 17:35:23: 	xlsx
+info: Jun-17-2022 17:36:29: 	Server running on port : 3001!
+info: Jun-17-2022 17:36:30: 	hello
+info: Jun-17-2022 17:36:30: 	jesuislà
+info: Jun-17-2022 17:36:30: 	etpuislà
+info: Jun-17-2022 17:36:30: 	BAM
+info: Jun-17-2022 17:36:31: 	dans le connnected
+info: Jun-17-2022 17:36:31: 	dans le rows from file
+info: Jun-17-2022 17:36:31: 	lsx
+info: Jun-17-2022 17:36:31: 	passé entre les gouttes
+info: Jun-17-2022 17:36:55: 	Server running on port : 3001!
+info: Jun-17-2022 17:36:57: 	hello
+info: Jun-17-2022 17:36:57: 	jesuislà
+info: Jun-17-2022 17:36:57: 	etpuislà
+info: Jun-17-2022 17:36:57: 	BAM
+info: Jun-17-2022 17:36:58: 	dans le connnected
+info: Jun-17-2022 17:36:58: 	dans le rows from file
+info: Jun-17-2022 17:36:58: 	lsx
+info: Jun-17-2022 17:36:58: 	src/utils/data/zoneC.xlsx
+info: Jun-17-2022 17:37:40: 	Server running on port : 3001!
+info: Jun-17-2022 17:37:53: 	Server running on port : 3001!
+info: Jun-17-2022 17:37:54: 	hello
+info: Jun-17-2022 17:37:54: 	jesuislà
+info: Jun-17-2022 17:37:54: 	etpuislà
+info: Jun-17-2022 17:37:54: 	BAM
+info: Jun-17-2022 17:37:56: 	dans le connnected
+info: Jun-17-2022 17:37:56: 	dans le rows from file
+info: Jun-17-2022 17:37:56: 	lsx
+info: Jun-17-2022 17:37:56: 	src/utils/data/zoneC.xlsx
+info: Jun-17-2022 17:38:37: 	Server running on port : 3001!
+info: Jun-17-2022 17:38:37: 	hello
+info: Jun-17-2022 17:38:37: 	jesuislà
+info: Jun-17-2022 17:38:37: 	etpuislà
+info: Jun-17-2022 17:38:37: 	BAM
+info: Jun-17-2022 17:38:38: 	dans le connnected
+info: Jun-17-2022 17:38:38: 	dans le rows from file
+info: Jun-17-2022 17:38:38: 	lsx
+info: Jun-17-2022 17:38:38: 	src/utils/data/zoneC.xlsx
+info: Jun-17-2022 17:38:38: 	[object Object]
+info: Jun-17-2022 17:39:00: 	Server running on port : 3001!
+info: Jun-17-2022 17:39:00: 	hello
+info: Jun-17-2022 17:39:00: 	jesuislà
+info: Jun-17-2022 17:39:00: 	etpuislà
+info: Jun-17-2022 17:39:00: 	BAM
+info: Jun-17-2022 17:39:02: 	dans le connnected
+info: Jun-17-2022 17:39:02: 	dans le rows from file
+info: Jun-17-2022 17:39:02: 	lsx
+info: Jun-17-2022 17:39:02: 	src/utils/data/zoneC.xlsx
+info: Jun-17-2022 17:39:47: 	Server running on port : 3001!
+info: Jun-17-2022 17:39:50: 	hello
+info: Jun-17-2022 17:39:50: 	jesuislà
+info: Jun-17-2022 17:39:50: 	etpuislà
+info: Jun-17-2022 17:39:50: 	BAM
+info: Jun-17-2022 17:39:51: 	dans le connnected
+info: Jun-17-2022 17:39:51: 	dans le rows from file
+info: Jun-17-2022 17:39:51: 	lsx
+info: Jun-17-2022 17:39:51: 	src/utils/data/zoneC.xlsx
+info: Jun-17-2022 17:40:13: 	Server running on port : 3001!
+info: Jun-17-2022 17:40:15: 	hello
+info: Jun-17-2022 17:40:15: 	jesuislà
+info: Jun-17-2022 17:40:15: 	etpuislà
+info: Jun-17-2022 17:40:15: 	BAM
+info: Jun-17-2022 17:40:16: 	dans le connnected
+info: Jun-17-2022 17:40:16: 	dans le rows from file
+info: Jun-17-2022 17:40:16: 	lsx
+info: Jun-17-2022 17:40:16: 	src/utils/data/zoneC.xlsx
+info: Jun-17-2022 17:44:00: 	j'envoie tout !
+info: Jun-17-2022 17:44:00: 	dans le callbak du rowsfromfile
+error: Jun-17-2022 17:44:00: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-17-2022 17:44:00: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-17-2022 17:45:49: 	Server running on port : 3001!
+info: Jun-17-2022 17:45:49: 	hello
+info: Jun-17-2022 17:45:49: 	jesuislà
+info: Jun-17-2022 17:45:49: 	etpuislà
+info: Jun-17-2022 17:45:49: 	BAM
+info: Jun-17-2022 17:45:50: 	dans le connnected
+info: Jun-17-2022 17:45:50: 	dans le rows from file
+info: Jun-17-2022 17:45:50: 	lsx
+info: Jun-17-2022 17:45:50: 	src/utils/data/zoneC.xlsx
+info: Jun-17-2022 17:46:35: 	Server running on port : 3001!
+info: Jun-17-2022 17:46:37: 	hello
+info: Jun-17-2022 17:46:37: 	jesuislà
+info: Jun-17-2022 17:46:37: 	etpuislà
+info: Jun-17-2022 17:46:37: 	BAM
+info: Jun-17-2022 17:46:38: 	dans le connnected
+info: Jun-17-2022 17:46:38: 	dans le rows from file
+info: Jun-17-2022 17:46:38: 	lsx
+info: Jun-17-2022 17:46:38: 	src/utils/data/zoneC.xlsx
+info: Jun-17-2022 17:48:26: 	j'envoie tout !
+info: Jun-17-2022 17:48:26: 	dans le callbak du rowsfromfile
+error: Jun-17-2022 17:48:26: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-17-2022 17:48:26: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-18-2022 13:19:24: 	dans le connnected
+info: Jun-18-2022 13:19:24: 	dans le rows from file
+info: Jun-18-2022 13:19:24: 	lsx
+info: Jun-18-2022 13:19:24: 	src/utils/data/zoneC.xlsx
+info: Jun-18-2022 13:21:25: 	j'envoie tout !
+info: Jun-18-2022 13:21:25: 	dans le callbak du rowsfromfile
+error: Jun-18-2022 13:21:25: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-18-2022 13:21:25: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-18-2022 14:35:00: 	dans le connnected
+info: Jun-18-2022 14:35:00: 	dans le rows from file
+info: Jun-18-2022 14:35:00: 	lsx
+info: Jun-18-2022 14:35:00: 	src/utils/data/zoneC.xlsx
+info: Jun-18-2022 14:36:35: 	j'envoie tout !
+info: Jun-18-2022 14:36:35: 	dans le callbak du rowsfromfile
+error: Jun-18-2022 14:36:35: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-18-2022 14:36:35: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-18-2022 14:38:42: 	Server running on port : 3001!
+info: Jun-18-2022 14:39:06: 	hello
+info: Jun-18-2022 14:39:06: 	jesuislà
+info: Jun-18-2022 14:39:06: 	etpuislà
+info: Jun-18-2022 14:39:06: 	BAM
+info: Jun-18-2022 14:39:07: 	dans le connnected
+info: Jun-18-2022 14:39:07: 	dans le rows from file
+info: Jun-18-2022 14:39:07: 	lsx
+info: Jun-18-2022 14:39:07: 	src/utils/data/zoneC.xlsx
+info: Jun-18-2022 14:40:43: 	j'envoie tout !
+info: Jun-18-2022 14:40:43: 	dans le callbak du rowsfromfile
+error: Jun-18-2022 14:40:43: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-18-2022 14:40:43: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-18-2022 14:41:23: 	Server running on port : 3001!
+info: Jun-18-2022 14:41:28: 	hello
+info: Jun-18-2022 14:41:28: 	jesuislà
+info: Jun-18-2022 14:41:28: 	etpuislà
+info: Jun-18-2022 14:41:28: 	BAM
+info: Jun-18-2022 14:41:29: 	dans le connnected
+info: Jun-18-2022 14:41:29: 	dans le rows from file
+info: Jun-18-2022 14:41:29: 	lsx
+info: Jun-18-2022 14:41:29: 	src/utils/data/zoneC.xlsx
+info: Jun-18-2022 14:43:07: 	j'envoie tout !
+info: Jun-18-2022 14:43:07: 	dans le callbak du rowsfromfile
+info: Jun-18-2022 14:43:07: 	we went here
+error: Jun-18-2022 14:43:07: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-18-2022 14:43:07: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+info: Jun-18-2022 14:48:44: 	Server running on port : 3001!
+info: Jun-18-2022 14:49:13: 	hello
+info: Jun-18-2022 14:49:13: 	jesuislà
+info: Jun-18-2022 14:49:13: 	etpuislà
+info: Jun-18-2022 14:49:13: 	BAM
+info: Jun-18-2022 14:49:14: 	dans le connnected
+info: Jun-18-2022 14:49:14: 	dans le rows from file
+info: Jun-18-2022 14:49:14: 	lsx
+info: Jun-18-2022 14:49:14: 	src/utils/data/zoneC.xlsx
+info: Jun-18-2022 14:50:53: 	j'envoie tout !
+info: Jun-18-2022 14:50:53: 	dans le callbak du rowsfromfile
+info: Jun-18-2022 14:50:53: 	function(name, schema, collection, options) {
+  if (!(this instanceof Connection)) {
+    throw new MongooseError('`connection.model()` should not be run with ' +
+      '`new`. If you are doing `new db.model(foo)(bar)`, use ' +
+      '`db.model(foo)(bar)` instead');
+  }
+
+  let fn;
+  if (typeof name === 'function') {
+    fn = name;
+    name = fn.name;
+  }
+
+  // collection name discovery
+  if (typeof schema === 'string') {
+    collection = schema;
+    schema = false;
+  }
+
+  if (utils.isObject(schema)) {
+    if (!schema.instanceOfSchema) {
+      schema = new Schema(schema);
+    } else if (!(schema instanceof this.base.Schema)) {
+      schema = schema._clone(this.base.Schema);
+    }
+  }
+  if (schema && !schema.instanceOfSchema) {
+    throw new Error('The 2nd parameter to `mongoose.model()` should be a ' +
+      'schema or a POJO');
+  }
+
+  const defaultOptions = { cache: false, overwriteModels: this.base.options.overwriteModels };
+  const opts = Object.assign(defaultOptions, options, { connection: this });
+  if (this.models[name] && !collection && opts.overwriteModels !== true) {
+    // model exists but we are not subclassing with custom collection
+    if (schema && schema.instanceOfSchema && schema !== this.models[name].schema) {
+      throw new MongooseError.OverwriteModelError(name);
+    }
+    return this.models[name];
+  }
+
+  let model;
+
+  if (schema && schema.instanceOfSchema) {
+    applyPlugins(schema, this.plugins, null, '$connectionPluginsApplied');
+
+    // compile a model
+    model = this.base._model(fn || name, schema, collection, opts);
+
+    // only the first model with this name is cached to allow
+    // for one-offs with custom collection names etc.
+    if (!this.models[name]) {
+      this.models[name] = model;
+    }
+
+    // Errors handled internally, so safe to ignore error
+    model.init(function $modelInitNoop() {});
+
+    return model;
+  }
+
+  if (this.models[name] && collection) {
+    // subclassing current model with alternate collection
+    model = this.models[name];
+    schema = model.prototype.schema;
+    const sub = model.__subclass(this, schema, collection);
+    // do not cache the sub model
+    return sub;
+  }
+
+  if (!model) {
+    throw new MongooseError.MissingSchemaError(name);
+  }
+
+  if (this === model.prototype.db
+      && (!collection || collection === model.collection.name)) {
+    // model already uses this connection.
+
+    // only the first model with this name is cached to allow
+    // for one-offs with custom collection names etc.
+    if (!this.models[name]) {
+      this.models[name] = model;
+    }
+
+    return model;
+  }
+  this.models[name] = model.__subclass(this, schema, collection);
+  return this.models[name];
+}
+info: Jun-18-2022 14:50:53: 	we went there
+info: Jun-18-2022 14:50:54: 	error 1
+info: Jun-18-2022 14:50:54: 	::1 - GET /excelToMongo/convert HTTP/1.1 200 74964 - 101391.262 ms
+info: Jun-18-2022 14:50:54: 	::1 - GET /favicon.ico HTTP/1.1 404 28 - 0.519 ms
+info: Jun-18-2022 14:58:05: 	Server running on port : 3001!
+info: Jun-18-2022 14:58:12: 	hello
+info: Jun-18-2022 14:58:12: 	jesuislà
+info: Jun-18-2022 14:58:12: 	etpuislà
+info: Jun-18-2022 14:58:12: 	BAM
+info: Jun-18-2022 14:58:14: 	dans le connnected
+info: Jun-18-2022 14:58:14: 	dans le rows from file
+info: Jun-18-2022 14:58:14: 	lsx
+info: Jun-18-2022 14:58:14: 	src/utils/data/zoneC.xlsx
+info: Jun-18-2022 14:59:51: 	j'envoie tout !
+info: Jun-18-2022 14:59:51: 	dans le callbak du rowsfromfile
+info: Jun-18-2022 14:59:51: 	suspense
+info: Jun-18-2022 14:59:51: 	function model(doc, fields, skipId) {
+      model.hooks.execPreSync('createModel', doc);
+      if (!(this instanceof model)) {
+        return new model(doc, fields, skipId);
+      }
+      const discriminatorKey = model.schema.options.discriminatorKey;
+
+      if (model.discriminators == null || doc == null || doc[discriminatorKey] == null) {
+        Model.call(this, doc, fields, skipId);
+        return;
+      }
+
+      // If discriminator key is set, use the discriminator instead (gh-7586)
+      const Discriminator = model.discriminators[doc[discriminatorKey]] ||
+        getDiscriminatorByValue(model.discriminators, doc[discriminatorKey]);
+      if (Discriminator != null) {
+        return new Discriminator(doc, fields, skipId);
+      }
+
+      // Otherwise, just use the top-level model
+      Model.call(this, doc, fields, skipId);
+    }
+info: Jun-18-2022 14:59:52: 	error 1
+info: Jun-18-2022 14:59:52: 	::1 - GET /excelToMongo/convert HTTP/1.1 200 74964 - 100449.650 ms
+info: Jun-18-2022 15:06:25: 	Server running on port : 3001!
+info: Jun-18-2022 15:11:07: 	Server running on port : 3001!
+info: Jun-18-2022 15:11:09: 	jesuislà
+info: Jun-18-2022 15:11:09: 	Try to connect with the provided credentials
+info: Jun-18-2022 15:11:10: 	Connected to database.
+info: Jun-18-2022 15:11:10: 	dans le rows from file
+info: Jun-18-2022 15:11:10: 	lsx
+info: Jun-18-2022 15:11:10: 	src/utils/data/zoneC.xlsx
+info: Jun-18-2022 15:12:47: 	j'envoie tout !
+info: Jun-18-2022 15:12:47: 	Extracting rows from file.
+info: Jun-18-2022 15:12:47: 	Create and compile the model to enable mongoose API.
+info: Jun-18-2022 15:12:47: 	Send the data to database
+info: Jun-18-2022 15:12:48: 	Clear memory and delete the model to enable concurrent insertions
+info: Jun-18-2022 15:12:48: 	::1 - GET /excelToMongo/convert HTTP/1.1 200 74964 - 98543.218 ms
+info: Jun-18-2022 15:14:59: 	Server running on port : 3001!
+info: Jun-18-2022 15:15:06: 	jesuislà
+info: Jun-18-2022 15:15:06: 	Try to connect with the provided credentials
+info: Jun-18-2022 15:15:07: 	Connected to database.
+info: Jun-18-2022 15:16:40: 	Extracting rows from file.
+info: Jun-18-2022 15:16:40: 	Create and compile the model to enable mongoose API.
+info: Jun-18-2022 15:16:40: 	Send the data to database
+info: Jun-18-2022 15:16:41: 	Clear memory and delete the model to enable concurrent insertions
+info: Jun-18-2022 15:16:41: 	::1 - GET /excelToMongo/convert HTTP/1.1 200 74964 - 95123.534 ms
+info: Jun-18-2022 15:18:53: 	Server running on port : 3001!
+info: Jun-18-2022 15:19:08: 	Server running on port : 3001!
+info: Jun-18-2022 15:19:08: 	Try to connect with the provided credentials.
+info: Jun-18-2022 15:19:10: 	Connected to database.
+info: Jun-18-2022 15:20:55: 	Extracting rows from file.
+info: Jun-18-2022 15:20:55: 	Create and compile the model to enable mongoose API.
+info: Jun-18-2022 15:20:55: 	Send the data to database.
+info: Jun-18-2022 15:20:56: 	Clear memory and delete the model to enable concurrent insertions.
+info: Jun-18-2022 15:20:56: 	::1 - GET /excelToMongo/convert HTTP/1.1 200 74964 - 107420.683 ms
+info: Jun-18-2022 15:22:03: 	Server running on port : 3001!

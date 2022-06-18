@@ -5,3 +5,11 @@ error: Dec-27-2021 18:05:37: 	Server running on port : 3001!
 error: Dec-27-2021 18:27:07: 	Server running on port : 3001!
 error: Dec-27-2021 18:27:57: 	Server running on port : 3001!
 error: Dec-27-2021 18:28:33: 	Server running on port : 3001!
+error: Jun-17-2022 16:00:52: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+error: Jun-17-2022 17:20:12: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+error: Jun-17-2022 17:44:00: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+error: Jun-17-2022 17:48:26: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+error: Jun-18-2022 13:21:25: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+error: Jun-18-2022 14:36:35: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+error: Jun-18-2022 14:40:43: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+error: Jun-18-2022 14:43:07: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead

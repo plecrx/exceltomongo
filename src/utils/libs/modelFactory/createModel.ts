@@ -1,25 +1,19 @@
-import { Model, Schema, SchemaDefinitionProperty } from 'mongoose';
+import { Schema } from 'mongoose';
 
 const createModel = (
 	connection: {
-		model: (
-			modelName: string,
-			arg1?: Schema<unknown, Model<unknown>>
-		) => unknown;
+		model: any;
 	},
-	modelName: string,
-	schema?:
-		| { [path: string]: SchemaDefinitionProperty }
-		| { [x: string]: SchemaDefinitionProperty<unknown> }
+	schema: { [x: string]: any },
+	modelName: string
 ) => {
 	const mongooseSchema = new Schema(schema);
-	const { model } = connection;
 	try {
-		return model(modelName, mongooseSchema);
+		return connection.model(modelName, mongooseSchema);
 	} catch (_error) {
 		//In case of the model already exists in the memory
 		//This is added so that this package can be used with loops.
-		return model(modelName);
+		return connection.model(modelName);
 	}
 };
 

@@ -1,5 +1,7 @@
-import { HealthcheckController } from './healthcheck/healthcheck.controller';
+import { HealthCheckController } from './healthCheck/healthCheckController';
+import { ExcelToMongoController } from 'controllers/excelToMongo/excelToMongo.controller';
 
-const healthcheckController = new HealthcheckController();
+const healthCheckController = new HealthCheckController();
+const excelToMongoController = new ExcelToMongoController();
 
-export { healthcheckController };
+export { healthCheckController, excelToMongoController };
