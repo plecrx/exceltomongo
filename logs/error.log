@@ -13,3 +13,29 @@ error: Jun-18-2022 13:21:25: 	`connection.model()` should not be run with `new`.
 error: Jun-18-2022 14:36:35: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
 error: Jun-18-2022 14:40:43: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
 error: Jun-18-2022 14:43:07: 	`connection.model()` should not be run with `new`. If you are doing `new db.model(foo)(bar)`, use `db.model(foo)(bar)` instead
+error: Jun-18-2022 19:48:13: 	Unexpected field
+error: Jun-18-2022 19:48:45: 	Unexpected field
+error: Jun-18-2022 19:48:57: 	fffMulterError: Unexpected field
+error: Jun-18-2022 19:50:05: 	Unexpected field
+error: Jun-18-2022 19:50:29: 	Unexpected field
+error: Jun-18-2022 19:52:13: 	Unexpected field
+error: Jun-18-2022 19:53:54: 	Unexpected field
+error: Jun-18-2022 19:54:10: 	Unexpected field
+error: Jun-18-2022 19:54:44: 	Unexpected field
+error: Jun-18-2022 19:55:19: 	Unexpected field
+error: Jun-18-2022 19:56:22: 	Unexpected field
+error: Jun-18-2022 19:57:27: 	Unexpected field
+error: Jun-19-2022 10:32:38: 	Unexpected field
+error: Jun-19-2022 10:35:31: 	Unexpected field
+error: Jun-19-2022 10:36:26: 	Unexpected field
+error: Jun-19-2022 10:36:52: 	Unexpected field
+error: Jun-19-2022 10:38:49: 	Unexpected field
+error: Jun-19-2022 14:11:29: 	ENOENT: no such file or directory, open 'C:\Users\PrescillaLecurieux\Documents\PRIVATE Prescilla LECURIEUX\nodejs-seed\src\utils\data\zoneC.xlsx'
+error: Jun-19-2022 14:13:07: 	ENOENT: no such file or directory, open 'C:\Users\PrescillaLecurieux\Documents\PRIVATE Prescilla LECURIEUX\nodejs-seed\src\utils\data\zoneC.xlsx'
+error: Jun-19-2022 18:48:03: 	Undefined database or collection found. If this intentional, please pass them as string
+error: Jun-19-2022 18:49:18: 	Undefined database or collection found. If this intentional, please pass them as string
+error: Jun-19-2022 18:50:55: 	Undefined database or collection found. If this intentional, please pass them as string
+error: Jun-19-2022 18:53:39: 	Undefined database or collection found. If this intentional, please pass them as string
+error: Jun-19-2022 18:57:00: 	Undefined database or collection found. If this intentional, please pass them as string
+error: Jun-19-2022 19:00:24: 	Undefined database or collection found. If this intentional, please pass them as string
+error: Jun-19-2022 19:09:10: 	Undefined database or collection found. If this intentional, please pass them as string

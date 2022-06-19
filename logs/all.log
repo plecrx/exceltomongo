@@ -756,3 +756,296 @@ info: Jun-18-2022 15:20:55: 	Send the data to database.
 info: Jun-18-2022 15:20:56: 	Clear memory and delete the model to enable concurrent insertions.
 info: Jun-18-2022 15:20:56: 	::1 - GET /excelToMongo/convert HTTP/1.1 200 74964 - 107420.683 ms
 info: Jun-18-2022 15:22:03: 	Server running on port : 3001!
+info: Jun-18-2022 15:32:38: 	Server running on port : 3001!
+info: Jun-18-2022 15:33:16: 	Server running on port : 3001!
+info: Jun-18-2022 15:33:45: 	Server running on port : 3001!
+info: Jun-18-2022 19:05:48: 	Server running on port : 3001!
+info: Jun-18-2022 19:06:00: 	Server running on port : 3001!
+info: Jun-18-2022 19:08:38: 	Server running on port : 3001!
+info: Jun-18-2022 19:10:30: 	Server running on port : 3001!
+info: Jun-18-2022 19:11:02: 	Server running on port : 3001!
+info: Jun-18-2022 19:11:28: 	Server running on port : 3001!
+info: Jun-18-2022 19:14:28: 	Server running on port : 3001!
+info: Jun-18-2022 19:15:56: 	Server running on port : 3001!
+info: Jun-18-2022 19:16:36: 	Server running on port : 3001!
+info: Jun-18-2022 19:16:47: 	Server running on port : 3001!
+info: Jun-18-2022 19:17:25: 	Server running on port : 3001!
+info: Jun-18-2022 19:17:56: 	Server running on port : 3001!
+info: Jun-18-2022 19:18:19: 	Server running on port : 3001!
+info: Jun-18-2022 19:19:54: 	Server running on port : 3001!
+info: Jun-18-2022 19:21:29: 	Server running on port : 3001!
+info: Jun-18-2022 19:34:45: 	Server running on port : 3001!
+info: Jun-18-2022 19:34:59: 	::1 - GET /excelToMongo/convert HTTP/1.1 400 30 - 3.806 ms
+info: Jun-18-2022 19:36:57: 	Server running on port : 3001!
+info: Jun-18-2022 19:39:02: 	::1 - GET /excelToMongo/convert HTTP/1.1 400 30 - 2.496 ms
+info: Jun-18-2022 19:40:59: 	::1 - GET /excelToMongo/convert HTTP/1.1 400 30 - 0.720 ms
+info: Jun-18-2022 19:41:33: 	::1 - POST /excelToMongo/convert HTTP/1.1 404 37 - 0.457 ms
+info: Jun-18-2022 19:41:57: 	Server running on port : 3001!
+info: Jun-18-2022 19:42:02: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 30 - 2.755 ms
+info: Jun-18-2022 19:42:29: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 30 - 0.460 ms
+info: Jun-18-2022 19:46:57: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 47 - 4.488 ms
+info: Jun-18-2022 19:48:10: 	Server running on port : 3001!
+error: Jun-18-2022 19:48:13: 	Unexpected field
+info: Jun-18-2022 19:48:13: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 10.441 ms
+info: Jun-18-2022 19:48:41: 	Server running on port : 3001!
+error: Jun-18-2022 19:48:45: 	Unexpected field
+info: Jun-18-2022 19:48:45: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 11.913 ms
+info: Jun-18-2022 19:48:56: 	Server running on port : 3001!
+error: Jun-18-2022 19:48:57: 	fffMulterError: Unexpected field
+info: Jun-18-2022 19:48:57: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 47 - 9.224 ms
+info: Jun-18-2022 19:50:04: 	Server running on port : 3001!
+info: Jun-18-2022 19:50:05: 	[object Object]
+error: Jun-18-2022 19:50:05: 	Unexpected field
+info: Jun-18-2022 19:50:05: 	::ffff:127.0.0.1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 12.996 ms
+info: Jun-18-2022 19:50:24: 	Server running on port : 3001!
+error: Jun-18-2022 19:50:29: 	Unexpected field
+info: Jun-18-2022 19:50:29: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 28.153 ms
+info: Jun-18-2022 19:52:09: 	Server running on port : 3001!
+error: Jun-18-2022 19:52:13: 	Unexpected field
+info: Jun-18-2022 19:52:13: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 10.108 ms
+error: Jun-18-2022 19:53:54: 	Unexpected field
+info: Jun-18-2022 19:53:54: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 4.267 ms
+info: Jun-18-2022 19:54:10: 	Server running on port : 3001!
+error: Jun-18-2022 19:54:10: 	Unexpected field
+info: Jun-18-2022 19:54:10: 	::ffff:127.0.0.1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 12.325 ms
+info: Jun-18-2022 19:54:34: 	Server running on port : 3001!
+info: Jun-18-2022 19:54:44: 	Server running on port : 3001!
+error: Jun-18-2022 19:54:44: 	Unexpected field
+info: Jun-18-2022 19:54:44: 	::ffff:127.0.0.1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 11.661 ms
+info: Jun-18-2022 19:55:18: 	Server running on port : 3001!
+error: Jun-18-2022 19:55:19: 	Unexpected field
+info: Jun-18-2022 19:55:19: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 13.695 ms
+info: Jun-18-2022 19:56:21: 	Server running on port : 3001!
+error: Jun-18-2022 19:56:22: 	Unexpected field
+info: Jun-18-2022 19:56:22: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 12.208 ms
+info: Jun-18-2022 19:57:27: 	Server running on port : 3001!
+error: Jun-18-2022 19:57:27: 	Unexpected field
+info: Jun-18-2022 19:57:27: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 11.294 ms
+info: Jun-19-2022 09:51:21: 	Server running on port : 3001!
+info: Jun-19-2022 09:51:34: 	::ffff:127.0.0.1 - GET /excelToMongo/convert HTTP/1.1 404 37 - 2.207 ms
+info: Jun-19-2022 09:51:34: 	::ffff:127.0.0.1 - GET /favicon.ico HTTP/1.1 404 28 - 0.404 ms
+error: Jun-19-2022 10:32:38: 	Unexpected field
+info: Jun-19-2022 10:32:38: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 11.742 ms
+info: Jun-19-2022 10:35:30: 	Server running on port : 3001!
+error: Jun-19-2022 10:35:31: 	Unexpected field
+info: Jun-19-2022 10:35:31: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 13.144 ms
+info: Jun-19-2022 10:36:23: 	Server running on port : 3001!
+error: Jun-19-2022 10:36:26: 	Unexpected field
+info: Jun-19-2022 10:36:26: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 17.341 ms
+info: Jun-19-2022 10:36:44: 	Server running on port : 3001!
+info: Jun-19-2022 10:36:51: 	Server running on port : 3001!
+error: Jun-19-2022 10:36:52: 	Unexpected field
+info: Jun-19-2022 10:36:52: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 18.202 ms
+info: Jun-19-2022 10:38:44: 	Server running on port : 3001!
+error: Jun-19-2022 10:38:49: 	Unexpected field
+info: Jun-19-2022 10:38:49: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 49 - 13.327 ms
+info: Jun-19-2022 10:39:24: 	Server running on port : 3001!
+info: Jun-19-2022 10:40:18: 	Server running on port : 3001!
+info: Jun-19-2022 10:46:40: 	Server running on port : 3001!
+info: Jun-19-2022 11:25:21: 	Server running on port : 3001!
+info: Jun-19-2022 11:25:41: 	Server running on port : 3001!
+info: Jun-19-2022 11:25:49: 	Server running on port : 3001!
+info: Jun-19-2022 11:26:47: 	Server running on port : 3001!
+info: Jun-19-2022 11:27:08: 	Server running on port : 3001!
+info: Jun-19-2022 11:27:17: 	Server running on port : 3001!
+info: Jun-19-2022 11:28:20: 	Server running on port : 3001!
+info: Jun-19-2022 11:29:42: 	Server running on port : 3001!
+info: Jun-19-2022 11:35:02: 	Server running on port : 3001!
+info: Jun-19-2022 11:35:33: 	Server running on port : 3001!
+info: Jun-19-2022 11:37:09: 	Server running on port : 3001!
+info: Jun-19-2022 11:37:10: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 18 - 5.211 ms
+info: Jun-19-2022 11:37:40: 	Server running on port : 3001!
+info: Jun-19-2022 11:37:41: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 18 - 4.470 ms
+info: Jun-19-2022 11:38:46: 	Server running on port : 3001!
+info: Jun-19-2022 11:38:50: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 18 - 4.669 ms
+info: Jun-19-2022 11:39:07: 	Server running on port : 3001!
+info: Jun-19-2022 11:39:08: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 18 - 5.276 ms
+info: Jun-19-2022 11:39:35: 	Server running on port : 3001!
+info: Jun-19-2022 11:39:35: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 18 - 5.557 ms
+info: Jun-19-2022 11:39:54: 	Server running on port : 3001!
+info: Jun-19-2022 11:39:55: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 18 - 5.893 ms
+info: Jun-19-2022 11:40:49: 	Server running on port : 3001!
+info: Jun-19-2022 11:42:00: 	Server running on port : 3001!
+info: Jun-19-2022 11:42:40: 	Server running on port : 3001!
+info: Jun-19-2022 11:43:26: 	Server running on port : 3001!
+info: Jun-19-2022 11:43:50: 	Server running on port : 3001!
+info: Jun-19-2022 11:44:52: 	Server running on port : 3001!
+info: Jun-19-2022 11:44:54: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 20 - 2.113 ms
+info: Jun-19-2022 11:46:42: 	Server running on port : 3001!
+info: Jun-19-2022 11:46:45: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 20 - 3.946 ms
+info: Jun-19-2022 11:47:20: 	Server running on port : 3001!
+info: Jun-19-2022 11:47:24: 	Server running on port : 3001!
+info: Jun-19-2022 11:47:40: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 45 - 8.738 ms
+info: Jun-19-2022 11:48:56: 	Server running on port : 3001!
+info: Jun-19-2022 11:48:57: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 2 - 9.262 ms
+info: Jun-19-2022 11:49:55: 	Server running on port : 3001!
+info: Jun-19-2022 11:49:57: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 12 - 3.374 ms
+info: Jun-19-2022 11:50:26: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 12 - 0.553 ms
+info: Jun-19-2022 11:50:58: 	Server running on port : 3001!
+info: Jun-19-2022 11:50:59: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 12 - 4.813 ms
+info: Jun-19-2022 11:51:24: 	Server running on port : 3001!
+info: Jun-19-2022 11:51:29: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 12 - 17.966 ms
+info: Jun-19-2022 11:55:41: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 12 - 12.407 ms
+info: Jun-19-2022 12:01:43: 	Server running on port : 3001!
+info: Jun-19-2022 12:01:55: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 12 - 4.557 ms
+info: Jun-19-2022 12:33:41: 	Server running on port : 3001!
+info: Jun-19-2022 12:33:43: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 3686 - 11.258 ms
+info: Jun-19-2022 12:35:05: 	Server running on port : 3001!
+info: Jun-19-2022 12:35:06: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 3686 - 9.787 ms
+info: Jun-19-2022 12:36:48: 	Server running on port : 3001!
+info: Jun-19-2022 12:36:49: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 3686 - 10.524 ms
+info: Jun-19-2022 12:38:09: 	Server running on port : 3001!
+info: Jun-19-2022 12:38:10: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 3686 - 9.104 ms
+info: Jun-19-2022 12:38:41: 	Server running on port : 3001!
+info: Jun-19-2022 12:38:42: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 3686 - 8.681 ms
+info: Jun-19-2022 12:41:40: 	Server running on port : 3001!
+info: Jun-19-2022 12:41:42: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 3686 - 9.294 ms
+info: Jun-19-2022 12:42:38: 	Server running on port : 3001!
+info: Jun-19-2022 12:42:43: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 3686 - 9.730 ms
+info: Jun-19-2022 12:44:02: 	Server running on port : 3001!
+info: Jun-19-2022 12:44:03: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 12 - 2.017 ms
+info: Jun-19-2022 12:45:11: 	Server running on port : 3001!
+info: Jun-19-2022 12:45:12: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 12 - 2.115 ms
+info: Jun-19-2022 12:46:30: 	Server running on port : 3001!
+info: Jun-19-2022 12:46:31: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 12 - 1.971 ms
+info: Jun-19-2022 12:46:55: 	Server running on port : 3001!
+info: Jun-19-2022 12:47:01: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 12 - 2.079 ms
+info: Jun-19-2022 12:47:17: 	Server running on port : 3001!
+info: Jun-19-2022 12:47:20: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 12 - 1.964 ms
+info: Jun-19-2022 12:48:09: 	Server running on port : 3001!
+info: Jun-19-2022 12:48:09: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 2.343 ms
+info: Jun-19-2022 12:48:40: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 0.515 ms
+info: Jun-19-2022 12:49:27: 	Server running on port : 3001!
+info: Jun-19-2022 12:49:28: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 2.765 ms
+info: Jun-19-2022 12:50:27: 	Server running on port : 3001!
+info: Jun-19-2022 12:50:40: 	Server running on port : 3001!
+info: Jun-19-2022 12:51:03: 	Server running on port : 3001!
+info: Jun-19-2022 12:51:13: 	Server running on port : 3001!
+info: Jun-19-2022 12:51:14: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 2.122 ms
+info: Jun-19-2022 12:52:38: 	Server running on port : 3001!
+info: Jun-19-2022 12:52:39: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 2.075 ms
+info: Jun-19-2022 12:53:47: 	Server running on port : 3001!
+info: Jun-19-2022 12:54:09: 	Server running on port : 3001!
+info: Jun-19-2022 12:54:11: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 2.184 ms
+info: Jun-19-2022 12:54:57: 	Server running on port : 3001!
+info: Jun-19-2022 12:55:53: 	Server running on port : 3001!
+info: Jun-19-2022 12:55:54: 	::1 - POST /excelToMongo/convert HTTP/1.1 200 252 - 12.290 ms
+info: Jun-19-2022 12:57:20: 	Server running on port : 3001!
+info: Jun-19-2022 12:57:21: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 17.339 ms
+info: Jun-19-2022 12:58:14: 	Server running on port : 3001!
+info: Jun-19-2022 12:58:17: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 20.273 ms
+info: Jun-19-2022 13:01:51: 	Server running on port : 3001!
+info: Jun-19-2022 13:01:52: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 14.451 ms
+info: Jun-19-2022 13:02:29: 	Server running on port : 3001!
+info: Jun-19-2022 13:02:30: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 16.884 ms
+info: Jun-19-2022 13:03:03: 	Server running on port : 3001!
+info: Jun-19-2022 13:03:04: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 18.046 ms
+info: Jun-19-2022 13:04:35: 	Server running on port : 3001!
+info: Jun-19-2022 13:06:26: 	Server running on port : 3001!
+info: Jun-19-2022 13:30:35: 	Server running on port : 3001!
+info: Jun-19-2022 13:30:38: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 13.093 ms
+info: Jun-19-2022 13:31:07: 	Server running on port : 3001!
+info: Jun-19-2022 13:31:08: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 14.951 ms
+info: Jun-19-2022 13:31:37: 	Server running on port : 3001!
+info: Jun-19-2022 13:31:41: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 11.953 ms
+info: Jun-19-2022 13:32:07: 	Server running on port : 3001!
+info: Jun-19-2022 13:32:08: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 13.459 ms
+info: Jun-19-2022 13:32:43: 	Server running on port : 3001!
+info: Jun-19-2022 13:32:46: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 11.497 ms
+info: Jun-19-2022 13:35:39: 	Server running on port : 3001!
+info: Jun-19-2022 13:35:42: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 11.482 ms
+info: Jun-19-2022 13:36:06: 	Server running on port : 3001!
+info: Jun-19-2022 13:36:09: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 16.114 ms
+info: Jun-19-2022 13:37:08: 	Server running on port : 3001!
+info: Jun-19-2022 13:37:09: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 14.188 ms
+info: Jun-19-2022 13:38:08: 	Try to connect with the provided credentials.
+info: Jun-19-2022 13:38:08: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 2.821 ms
+info: Jun-19-2022 13:38:09: 	Extracting rows from file.
+info: Jun-19-2022 13:39:51: 	Server running on port : 3001!
+info: Jun-19-2022 13:39:54: 	Try to connect with the provided credentials.
+info: Jun-19-2022 13:39:54: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 2.593 ms
+info: Jun-19-2022 13:39:55: 	Extracting rows from file.
+info: Jun-19-2022 13:40:48: 	Server running on port : 3001!
+info: Jun-19-2022 13:40:51: 	Try to connect with the provided credentials.
+info: Jun-19-2022 13:40:51: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 3.619 ms
+info: Jun-19-2022 13:40:52: 	Extracting rows from file.
+info: Jun-19-2022 14:05:00: 	Server running on port : 3001!
+info: Jun-19-2022 14:05:05: 	Try to connect with the provided credentials.
+info: Jun-19-2022 14:05:05: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 2.360 ms
+info: Jun-19-2022 14:05:06: 	Extracting rows from file.
+info: Jun-19-2022 14:05:25: 	Server running on port : 3001!
+info: Jun-19-2022 14:08:29: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 10.674 ms
+info: Jun-19-2022 14:09:11: 	Server running on port : 3001!
+info: Jun-19-2022 14:09:27: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 12.703 ms
+info: Jun-19-2022 14:10:37: 	Server running on port : 3001!
+info: Jun-19-2022 14:10:42: 	::1 - POST /excelToMongo/convert HTTP/1.1 500 142 - 25.381 ms
+info: Jun-19-2022 14:11:27: 	Server running on port : 3001!
+info: Jun-19-2022 14:11:28: 	Try to connect with the provided credentials.
+info: Jun-19-2022 14:11:28: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 2.417 ms
+info: Jun-19-2022 14:11:29: 	Extracting rows from file.
+error: Jun-19-2022 14:11:29: 	ENOENT: no such file or directory, open 'C:\Users\PrescillaLecurieux\Documents\PRIVATE Prescilla LECURIEUX\nodejs-seed\src\utils\data\zoneC.xlsx'
+info: Jun-19-2022 14:13:03: 	Server running on port : 3001!
+info: Jun-19-2022 14:13:06: 	Try to connect with the provided credentials.
+info: Jun-19-2022 14:13:06: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 3.775 ms
+info: Jun-19-2022 14:13:07: 	Extracting rows from file.
+error: Jun-19-2022 14:13:07: 	ENOENT: no such file or directory, open 'C:\Users\PrescillaLecurieux\Documents\PRIVATE Prescilla LECURIEUX\nodejs-seed\src\utils\data\zoneC.xlsx'
+info: Jun-19-2022 14:14:19: 	Server running on port : 3001!
+info: Jun-19-2022 14:14:21: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 4.616 ms
+info: Jun-19-2022 14:15:49: 	Server running on port : 3001!
+info: Jun-19-2022 14:15:52: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 2.943 ms
+info: Jun-19-2022 14:16:06: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 0.825 ms
+info: Jun-19-2022 14:16:10: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 0.362 ms
+info: Jun-19-2022 14:16:30: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 0.258 ms
+info: Jun-19-2022 14:16:37: 	::1 - POST /excelToMongo/convert HTTP/1.1 400 13 - 0.761 ms
+info: Jun-19-2022 14:32:58: 	::1 - POST /files/upload HTTP/1.1 404 29 - 0.320 ms
+info: Jun-19-2022 14:33:10: 	Server running on port : 3001!
+info: Jun-19-2022 14:33:11: 	::1 - POST /files/upload HTTP/1.1 400 13 - 2.875 ms
+info: Jun-19-2022 14:33:50: 	::1 - POST /files/upload HTTP/1.1 400 13 - 0.545 ms
+info: Jun-19-2022 14:34:05: 	::1 - POST /files/upload HTTP/1.1 400 13 - 0.450 ms
+info: Jun-19-2022 14:34:08: 	::1 - POST /files/upload HTTP/1.1 400 13 - 0.332 ms
+info: Jun-19-2022 14:35:02: 	Server running on port : 3001!
+info: Jun-19-2022 14:35:03: 	::1 - POST /files/upload HTTP/1.1 400 13 - 2.384 ms
+info: Jun-19-2022 14:36:06: 	Server running on port : 3001!
+info: Jun-19-2022 14:36:11: 	::1 - POST /files/upload HTTP/1.1 400 13 - 2.268 ms
+info: Jun-19-2022 17:36:39: 	Server running on port : 3001!
+info: Jun-19-2022 17:36:42: 	::1 - POST /files/upload HTTP/1.1 400 13 - 3.738 ms
+info: Jun-19-2022 17:40:47: 	Server running on port : 3001!
+info: Jun-19-2022 17:40:48: 	::1 - POST /files/upload HTTP/1.1 400 13 - 3.377 ms
+info: Jun-19-2022 17:48:44: 	Server running on port : 3001!
+info: Jun-19-2022 17:49:11: 	::1 - POST /files/upload HTTP/1.1 - - - - ms
+info: Jun-19-2022 18:09:55: 	::1 - POST /databases/excelToMongoDB HTTP/1.1 404 41 - 3.376 ms
+info: Jun-19-2022 18:11:06: 	Server running on port : 3001!
+info: Jun-19-2022 18:11:08: 	::1 - POST /databases/excelToMongoDB HTTP/1.1 400 13 - 2.041 ms
+info: Jun-19-2022 18:13:28: 	Server running on port : 3001!
+info: Jun-19-2022 18:14:39: 	Server running on port : 3001!
+info: Jun-19-2022 18:14:42: 	::1 - POST /databases/excelToMongoDB HTTP/1.1 400 13 - 2.256 ms
+info: Jun-19-2022 18:16:14: 	Server running on port : 3001!
+info: Jun-19-2022 18:16:29: 	::1 - POST /databases/excelToMongoDB HTTP/1.1 400 13 - 2.194 ms
+info: Jun-19-2022 18:19:35: 	::1 - POST /databases/excelToMongoDB HTTP/1.1 400 13 - 0.583 ms
+info: Jun-19-2022 18:20:55: 	Server running on port : 3001!
+info: Jun-19-2022 18:21:26: 	Server running on port : 3001!
+info: Jun-19-2022 18:22:58: 	Server running on port : 3001!
+info: Jun-19-2022 18:23:00: 	::1 - POST /databases/excelToMongoDB HTTP/1.1 400 13 - 2.517 ms
+error: Jun-19-2022 18:48:03: 	Undefined database or collection found. If this intentional, please pass them as string
+info: Jun-19-2022 18:49:14: 	Server running on port : 3001!
+error: Jun-19-2022 18:49:18: 	Undefined database or collection found. If this intentional, please pass them as string
+info: Jun-19-2022 18:49:57: 	Server running on port : 3001!
+error: Jun-19-2022 18:50:55: 	Undefined database or collection found. If this intentional, please pass them as string
+info: Jun-19-2022 18:53:22: 	Server running on port : 3001!
+info: Jun-19-2022 18:53:25: 	::1 - POST /databases/excelToMongoDB HTTP/1.1 400 13 - 10.170 ms
+error: Jun-19-2022 18:53:39: 	Undefined database or collection found. If this intentional, please pass them as string
+info: Jun-19-2022 18:55:40: 	Server running on port : 3001!
+info: Jun-19-2022 18:56:59: 	Server running on port : 3001!
+error: Jun-19-2022 18:57:00: 	Undefined database or collection found. If this intentional, please pass them as string
+info: Jun-19-2022 18:59:18: 	Server running on port : 3001!
+info: Jun-19-2022 19:00:16: 	Server running on port : 3001!
+error: Jun-19-2022 19:00:24: 	Undefined database or collection found. If this intentional, please pass them as string
+info: Jun-19-2022 19:08:12: 	Server running on port : 3001!
+error: Jun-19-2022 19:09:10: 	Undefined database or collection found. If this intentional, please pass them as string
+info: Jun-19-2022 19:10:14: 	Server running on port : 3001!
+info: Jun-19-2022 19:10:18: 	Try to connect with the provided credentials.
+info: Jun-19-2022 19:10:19: 	Extracting rows from file.
+info: Jun-19-2022 19:12:23: 	Create and compile the model to enable mongoose API.
+info: Jun-19-2022 19:12:23: 	Send the data to database.
+info: Jun-19-2022 19:12:24: 	Clear memory and delete the model to enable concurrent insertions.
+info: Jun-19-2022 19:12:24: 	::1 - POST /databases/excelToMongoDB HTTP/1.1 200 74964 - 125567.280 ms

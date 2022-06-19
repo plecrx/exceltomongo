@@ -1,4 +1,5 @@
 import { router as healthcheckRouter } from './healthCheck/healthCheck.router';
-import { router as excelToMongoRouter } from './excelToMongo/excelToMongo.router';
+import { router as databasesRouter } from './databases/databases.router';
+import { router as filesRouter } from './files/files.router';
 
-export { healthcheckRouter, excelToMongoRouter };
+export { healthcheckRouter, databasesRouter, filesRouter };

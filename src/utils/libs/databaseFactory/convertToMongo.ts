@@ -25,7 +25,6 @@ interface Data {
 	user: string;
 	pass: string;
 	host: string;
-	path: string;
 	endConnection: boolean;
 }
 
@@ -55,7 +54,8 @@ const closeConnection = (isEndConnection: boolean, connection: any) => {
 	}
 };
 
-export const excelToMongo = (
+export const convertToMongo = (
+	filepath: string,
 	data: Data,
 	options: Options,
 	callback: (arg0: Error | null, arg1?: string[]) => void
@@ -126,11 +126,10 @@ export const excelToMongo = (
 
 		connection.on('connected', async () => {
 			Logger.info('Extracting rows from file.');
-			await rowsFromFile(data.path, (error, rows) => {
+			await rowsFromFile(filepath, (error, rows) => {
 				if (error) {
 					sendError(error);
 				}
-
 				const schema: { [x: string]: string } = {};
 				let sRow = 0;
 				let eRow = 0;
